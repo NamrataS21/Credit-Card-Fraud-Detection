@@ -1,2 +1,3 @@
 # Credit-Card-Fraud-Detection
-Credit Card Fraud Detection using Logistic Regression
+Credit Card Fraud Detection using Logistic Regression.
+Developed a credit card fraud detection model using Logistic Regression to identify fraudulent transactions in a highly unbalanced dataset. Built a classification model to predict fraudulent transactions, evaluated model performance, and visualized results. Applied Logistic Regression to the dataset, used histograms for data visualization, generated a classification report for scores, and plotted confusion matrix to evaluate model performance. Successfully developed a model that detected credit card fraud transactions, providing insights to model performance and accuracy through classification matrix to evaluate model performance.
