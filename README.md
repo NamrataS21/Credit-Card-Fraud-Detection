@@ -3,7 +3,13 @@ Credit Card Fraud Detection using Logistic Regression.
 
 * Situation: With millions of transactions occurring daily, it is crucial to identify and flag suspicious transactions to prevent financial losses. The institution has a dataset containing transactions made by credit cards in September 2013 by European cardholders, with 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, making it a challenging task to detect fraud transactions.Logistic regression is a statistical algorithm which analyze the relationship between two data factors. Developed a credit card fraud detection model using Logistic Regression to identify fraudulent transactions in a highly unbalanced dataset.
 
-* Task:  Analyzed the dataset to understand the distribution of features and identify any patterns or correlations. Built a classification model to predict fraudulent transactions, evaluated model performance, and visualized results.
+
+* Task: The task was to develop a machine learning model that can accurately detect credit card fraud transactions. The specific objectives were:
+
+    1. Data Analysis: To analyze the dataset to understand the distribution of features and identify any patterns or correlations.
+    2. Model Development: To Develop a Logistic Regression model that can classify transactions as either legitimate or fraudulent.
+    3. Model Evaluation: To Evaluate the performance of the model using metrics such as precision, recall, f1-score, and confusion matrix.
+
 
 * Action: The following steps were performed:
     1. Data Preprocessing: The dataset was loaded and preprocessed by splitting it into features (X) and target (y).
@@ -14,6 +20,7 @@ Credit Card Fraud Detection using Logistic Regression.
     6. Prediction: Predictions were made on the test set using the trained model.
     7. Classification Report: A classification report was printed to evaluate the performance of the model.
     8. Confusion Matrix: A confusion matrix was plotted to visualize the true positives, false positives, true negatives, and false negatives.
+
 
 * Result: The result of the analysis is a Logistic Regression model that can accurately detect credit card fraud transactions. The performance of the model is evaluated using metrics such as precision, recall, f1-score, and confusion matrix. Successfully developed a model that detected credit card fraud transactions, providing insights to model performance and accuracy through classification matrix to evaluate model performance.
   
